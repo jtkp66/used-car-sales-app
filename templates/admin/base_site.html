@@ -1,0 +1,11 @@
+{% extends 'admin/base.html' %} {% load static %} {% block branding %}
+<img
+  src="{% static 'img/jpmotorslogo.png' %}"
+  alt="JTKP Motors"
+  class="brand_img"
+  height="50"
+  width="80"
+/>
+Admin Area {% endblock %} {% block extrastyle %}
+<link rel="stylesheet" href="{% static 'css/admin.css' %}" />
+{% endblock %}
