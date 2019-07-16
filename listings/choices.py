@@ -1,0 +1,31 @@
+price_choices = {
+    '100000': '$100,000',
+    '200000': '$200,000',
+    '300000': '$300,000',
+    '400000': '$400,000',
+    '500000': '$500,000',
+    '600000': '$600,000',
+    '700000': '$700,000',
+    '800000': '$800,000',
+    '900000': '$900,000',
+    '1000000': '$1M+',
+}
+
+make_choices = {
+    'Audi': 'Audi',
+    'Ferrari': 'Ferrari',
+    'Ford': 'Ford',
+    'Chevrolet': 'Chevrolet',
+    'Dodge': 'Dodge',
+    'BMW': 'BMW',
+    'Mercedes': 'Mercedes',
+    'Porsche': 'Porsche',
+    'Mclaren': 'Mclaren',
+    'Lexus': 'Lexus',
+    'Lamborghini': 'Lamborghini',
+    'Tesla': 'Tesla',
+    'Datsun': 'Datsun',
+    'Suburu': 'Suburu',
+    'Jaguar': 'Jaguar',
+    'Maserati': 'Maserati',
+}
