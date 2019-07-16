@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{% static 'css/style.css' %}" />
     <link rel="stylesheet" href="{% static 'css/lightbox.min.css' %}" />
 
-    <title>JP Automotive</title>
+    <title>JP Automotive {% block title %}{% endblock %}</title>
   </head>
   <body>
     {% include 'partials/_topbar.html' %} {% include 'partials/_navbar.html' %}
