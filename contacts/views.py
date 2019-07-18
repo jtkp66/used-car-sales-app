@@ -28,9 +28,9 @@ def contact(request):
 
     # Send email
     # send_mail(
-    #   'Property Listing Inquiry',
+    #   'Car Listing Inquiry',
     #   'There has been an inquiry for ' + listing + '. Sign into the admin panel for more info',
-    #   'traversy.brad@gmail.com',
+    #   'jtkp66@gmail.com',
     #   [employee_email, 'techguyinfo@gmail.com'],
     #   fail_silently=False
     # )
